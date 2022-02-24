@@ -185,3 +185,5 @@ We added some ReactJs code to test our Spring Boot project, we added:
 <br><br>
 ![MAINEPAGE PAGE](IMG3.png)
 <br><br>
+![EMAIL PAGE](IMG4.)
+<br><br>
