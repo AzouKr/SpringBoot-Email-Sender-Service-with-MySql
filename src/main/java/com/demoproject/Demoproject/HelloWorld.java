@@ -111,7 +111,7 @@ public class HelloWorld {
 			 	
 		      }
 		
-		//************************************* show ***********************************************************
+		//************************************* send ***********************************************************
 		
 			@GetMapping(path="/send")
 			 public boolean Send() {
@@ -132,4 +132,16 @@ public class HelloWorld {
 				 	return true;
 				 	
 			      }
+	
+	//************************************* sendInd ***********************************************************
+		
+			@PostMapping(path="/sendInd")
+			public boolean Send(@RequestBody String emailAdress) {
+				
+	  		String subject = "Login Alert !!";
+	 		 String body = "Someone just logged on the site";
+			        
+			service.sendMail(emailAdress, body, subject);
+			return true;
+				}
 	  }
