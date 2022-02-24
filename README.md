@@ -17,7 +17,7 @@
 In this Spring Boot project,  we'll walk through the steps needed to send emails from Spring Boot application. For the former, we'll use the JavaMail library, and the latter will use the spring-boot-starter-mail dependency.
 
 
-
+<br/>
 
 ## Installation<a name="installation"></a>
 
