@@ -179,3 +179,9 @@ We added some ReactJs code to test our Spring Boot project, we added:
    2. Signup Page.
    3. Mainpage where we can view our database's inforamtions and to be able to send emails.
 
+![LOGIN PAGE](IMG1.JPG)
+<br><br>
+![SIGNUP PAGE](IMG2.JPG)
+<br><br>
+![MAINEPAGE PAGE](IMG3.png)
+<br><br>
