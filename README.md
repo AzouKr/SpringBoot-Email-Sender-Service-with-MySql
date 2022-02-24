@@ -1,4 +1,4 @@
-# SpringBoot-EmailSender-MySQL
+# SpringBoot: Email Sender Service with MySql
 
 ## Table of contents
 
